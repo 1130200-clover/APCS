@@ -3,7 +3,7 @@
 // Author      : 
 // Version     :
 // Copyright   : Your copyright notice
-// Description : tree in C++, Ansi-style
+// Description : 多層巢狀迴圈
 //============================================================================
 
 #include <iostream>
