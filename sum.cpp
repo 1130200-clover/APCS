@@ -1,3 +1,11 @@
+//============================================================================
+// Name        : apcs.cpp
+// Author      : 
+// Version     :
+// Copyright   : Your copyright notice
+// Description : sum in C++, Ansi-style
+//============================================================================
+
 #include <iostream>
 using namespace std;
 
