@@ -3,7 +3,7 @@
 // Author      : 
 // Version     :
 // Copyright   : Your copyright notice
-// Description : Hello World in C++, Ansi-style
+// Description :兩光法師占卜術 in C++, Ansi-style
 //============================================================================
 
 #include <iostream>
