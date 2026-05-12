@@ -1,3 +1,11 @@
+//============================================================================
+// Name        : apcs.cpp
+// Author      : 
+// Version     :
+// Copyright   : Your copyright notice
+// Description : 格瑞哥里的煩惱 in C++, Ansi-style
+//============================================================================
+
 #include <iostream>
 using namespace std;
 
