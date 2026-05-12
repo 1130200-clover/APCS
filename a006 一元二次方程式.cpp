@@ -3,7 +3,7 @@
 // Author      : 
 // Version     :
 // Copyright   : Your copyright notice
-// Description : 一元二次方程式 in C++, Ansi-style
+// Description : 函式建構 in C++, Ansi-style
 //============================================================================
 
 #include <iostream>
